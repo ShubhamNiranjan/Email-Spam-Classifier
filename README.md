@@ -1,4 +1,4 @@
-# TO Run
+# To Run
 Download the repository on your system and run  'streamlit run app.py' on terminal to reach the page and see the website.
 # Approach
 This project is all about classifying the spam messages separately from those of non spam messages.
